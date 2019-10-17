@@ -7,10 +7,10 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    'model.json';
+    'model_js/model.json';
 
-const IMAGE_SIZE = 192;
-const TOPK_PREDICTIONS = 5;
+const IMAGE_SIZE = 300;
+const TOPK_PREDICTIONS = 4;
 
 let my_model;
 const demo = async () => {
