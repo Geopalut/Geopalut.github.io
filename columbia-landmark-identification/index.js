@@ -1,7 +1,7 @@
 
 CLASSES = {
   0: 'The Curl',
-  1: 'Scholar's Lion',
+  1: 'Scholars Lion',
   2: 'Pan',
   3: 'Reclining Figure'
 };
